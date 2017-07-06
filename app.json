@@ -1,0 +1,6 @@
+{
+  "name": "deals",
+  "description": "Hazem",
+  "image": "heroku/java",
+  "addons": [  ]
+}
